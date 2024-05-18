@@ -37,8 +37,10 @@ To start the project, it is necessary to install all dependencies. Your package.
 ![image](https://github.com/Quinteroo/Backend-API-REST-auth-Files/assets/146204443/84db30bf-1813-46e6-bf41-48ad7a4aee1a)
 
 
+
 >[!IMPORTANT]
 > Since there is no frontend, all requests need to be made using software that simulates it, such as INSOMNIA or POSTMAN.
+> The database IP is universally accessible at 0.0.0.0/0.
 
 >[!NOTE]
 > do not forget
