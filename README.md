@@ -19,6 +19,8 @@ This project is designed to manage information from an art database. I have deve
 ## Technologies used
 - Node.js
 - javaScript
+- mongoDB
+- Insomnia
 
 ## Dependencies
 - Nodemon
